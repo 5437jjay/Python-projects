@@ -1,6 +1,0 @@
-from vanit.py import isvalid
-def test_van()
-    assert isvalid("CCC234")=True
-    assert isvalid("222")!=False
-    assert invalid("CCC22A")!=False
-    
